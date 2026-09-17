@@ -89,17 +89,18 @@ Our proposed system would automate the process of ordering using digital kiosks.
 
 ### 2. Who would use the system?
 
-| User/Role | Possible Use |
-| --------- | ------------ |
-| 1.        |              |
-| 2.        |              |
+| User/Role | Possible Use                                                             |
+| --------- | ------------------------------------------------------------------------ |
+| 1. Student|  The student would have a better, more convenient experience.            |
+| 2. Worker |  Less work would be needed                                               |
 
 ### 3. What are the essential features?
 
 > **Keep your proposed system simple. Your project will be subject to teacher approval.**
 
-| Feature | Purpose |
-| ------- | ------- |
-| 1.      |         |
-| 2.      |         |
-| 3.      |         |
+| Feature                  | Purpose                                                                       |
+| -------                  | ----------------------------------------------------------------------------- |
+| 1. Digital Interface     |Instead of manually ordering their food, the student instead selects their items from a menu, and the selection is sent to the person                              preparing the food. The cost of their food would also be calculated. |
+
+| 2. Payment Processing    | Instead of calculating the cost of the order manually using the prices, the cost is dynamically calculated while the order is                                      ongoing, letting students see how much it will cost without having to do the math. |
+        
